@@ -21,8 +21,9 @@
 * **Database:** MySQL with Connection Pooling
 * **Data Validation:** Pydantic (Strict JSON Schema enforcement)
 * **Parsing:** PyPDF2 & python-docx
+* **Authentication:** JWT (JSON Web Tokens) with Secure LocalStorage management
 
 ### **Frontend**
 * **Core:** HTML5 & Vanilla JavaScript (Modular ES6 Architecture)
 * **Styling:** Semantic CSS3 (Modularly partitioned into Globals, Auth, and Dashboard)
-* **Authentication:** JWT (JSON Web Tokens) with Secure LocalStorage management
+
