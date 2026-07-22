@@ -26,4 +26,3 @@
 * **Core:** HTML5 & Vanilla JavaScript (Modular ES6 Architecture)
 * **Styling:** Semantic CSS3 (Modularly partitioned into Globals, Auth, and Dashboard)
 * **Authentication:** JWT (JSON Web Tokens) with Secure LocalStorage management
-* **Icons:** FontAwesome 6
