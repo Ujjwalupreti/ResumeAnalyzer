@@ -17,7 +17,7 @@
 
 ### **Backend**
 * **Framework:** FastAPI (Python)
-* **AI Engine:** Google Gemini Fleet (`flash-2.5`, `flash-2.0`, `pro-1.5`)
+* **AI Engine:** Google Gemini Fleet (`flash-2.5`, `flash-2.0`, `pro-1.5`) 
 * **Database:** MySQL with Connection Pooling
 * **Data Validation:** Pydantic (Strict JSON Schema enforcement)
 * **Parsing:** PyPDF2 & python-docx
